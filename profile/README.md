@@ -6,7 +6,7 @@ We're **Downsized Developers**, a small crew of backend engineers based in Indon
 
 | Repo | Description | Highlights |
 | --- | --- | --- |
-| [sdk-go](https://github.com/downsized-devs/sdk-go) | Monorepo of 40+ small, well-scoped Go packages — import only what you need. | Go · MIT · v0.1.1 · ⭐ 4 |
+| [sdk-go](https://github.com/downsized-devs/sdk-go) | Monorepo of 40+ small, well-scoped Go packages — import only what you need. | Go · MIT |
 | [template-service-go](https://github.com/downsized-devs/template-service-go) | Opinionated Go backend starter with Swagger and structured config layout. | Go · service scaffold |
 | [docker-events-notifier](https://github.com/downsized-devs/docker-events-notifier) | Watches the Docker socket and pings Slack, Discord, or email on events. | <10MB image · no exposed ports · 3 forks |
 
